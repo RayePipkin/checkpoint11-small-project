@@ -1,5 +1,5 @@
 # My Small git Project
 
-> My independent practice code for git project
+> My merge conflict 
 
 ## This branch is for my changes
