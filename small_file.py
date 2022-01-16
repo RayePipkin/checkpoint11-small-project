@@ -1,3 +1,3 @@
 print('Rodeo Time')
 
-print('My local change')
+print('Updated python function with merge conflict practice')
